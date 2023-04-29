@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: s23openalex
+Version: 0.0.1
+Summary: bibtex and RIS
+Home-page: UNKNOWN
+Maintainer: Ziang Liu
+Maintainer-email: ziangliu@andrew.cmu.edu
+License: MIT
+Platform: UNKNOWN
+
+get an RIS and a bibtex entry for a DOI
+
